@@ -16,14 +16,44 @@ const certificates: Certificate[] = [
     image: "/certificates/ad409b07413d582176d4882ec61560bd.JPG",
   },
   {
+    title: "软件著作权登记证书",
+    description: "基于 Unity3D 的数字城隧交互平台 V1.0（2025）",
+    image: "/certificates/\u8F6F\u8457.jpg",
+  },
+  {
+    title: "\u201C高教杯\u201D成图大赛 全国三等奖",
+    description: "第十七届\u201C高教杯\u201D全国大学生先进成图技术与产品信息建模创新大赛 建筑类",
+    image: "/certificates/\u626B\u63CF\u4EF6_\u83B7\u5956\u8BC1\u4E66_\u8096\u5CFB\u94ED_001.jpg",
+  },
+  {
+    title: "江苏省成图大赛 三等奖",
+    description: "江苏省第四届大学生先进成图技术与产品信息建模创新大赛 建筑类",
+    image: "/certificates/\u626B\u63CF\u4EF6_\u83B7\u5956\u8BC1\u4E66_001.jpg",
+  },
+  {
     title: "LSCAT 江苏省笔译大赛 二等奖",
     description: "2024 年第十届\u201CLSCAT\u201D杯江苏省笔译大赛 汉译英本科组",
     image: "/certificates/Snipaste_2024-07-02_22-17-31.png",
   },
   {
-    title: "外教社·词达人杯 校赛二等奖",
+    title: "全国大学生英语作文大赛 省级三等奖",
+    description: "2024 年全国大学生英语作文大赛 大学英语组",
+    image: "/certificates/\u626B\u63CF\u4EF6_\u8363\u8A89\u8BC1\u4E66_001.jpg",
+  },
+  {
+    title: "\u201C外教社\u00B7词达人杯\u201D校赛二等奖",
     description: "第四届\u201C外教社\u00B7词达人杯\u201D全国大学生英语词汇能力大赛",
     image: "/certificates/mmexportdc6fda8c26d5367ac8abae7a57269420_1717483630014.png",
+  },
+  {
+    title: "BIM 一级证书",
+    description: "中国图学会 全国 BIM 技能等级考试 一级（待上传）",
+    image: "/certificates/bim-level1.jpg",
+  },
+  {
+    title: "BIM 二级证书（建筑设计）",
+    description: "中国图学会 全国 BIM 技能等级考试 二级 建筑设计专业（待上传）",
+    image: "/certificates/bim-level2.jpg",
   },
 ];
 
