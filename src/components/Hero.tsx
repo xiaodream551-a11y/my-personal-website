@@ -30,13 +30,12 @@ export default function Hero() {
 
         {/* Name */}
         <h1 className="animate-fade-in-up delay-100 font-display text-5xl md:text-6xl font-bold text-foreground tracking-tight mb-4">
-          Your Name
+          肖峻铭
         </h1>
 
         {/* Tagline */}
         <p className="animate-fade-in-up delay-200 text-lg md:text-xl text-muted max-w-lg mx-auto mb-10 leading-relaxed">
-          A passionate developer crafting elegant digital experiences with clean
-          code and creative thinking.
+          热爱编程的开发者，用简洁的代码与创造性思维，打造优雅的数字体验。
         </p>
 
         {/* CTA Button */}
@@ -45,7 +44,7 @@ export default function Hero() {
             href="#contact"
             className="inline-flex items-center gap-2 bg-accent hover:bg-accent-dark text-white font-medium px-7 py-3 rounded-full transition-all duration-300 hover:shadow-lg hover:shadow-accent/25 hover:-translate-y-0.5"
           >
-            Contact Me
+            联系我
             <svg
               className="w-4 h-4"
               fill="none"

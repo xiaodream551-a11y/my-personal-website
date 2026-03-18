@@ -1,7 +1,7 @@
 const tags = [
-  "Web Development",
-  "UI/UX Design",
-  "Open Source",
+  "Web 开发",
+  "UI/UX 设计",
+  "开源项目",
   "TypeScript",
   "React",
   "Next.js",
@@ -13,25 +13,19 @@ export default function About() {
       <div className="mx-auto max-w-3xl px-6">
         <div className="mb-12">
           <span className="text-accent font-display text-sm font-semibold tracking-widest uppercase">
-            About Me
+            关于我
           </span>
           <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground mt-2 tracking-tight">
-            Getting to know me
+            了解我
           </h2>
         </div>
 
         <div className="space-y-6 text-muted leading-relaxed text-base md:text-lg">
           <p>
-            Hello! I&apos;m a developer who loves building things for the web. I
-            enjoy turning complex problems into simple, beautiful, and intuitive
-            solutions.
+            你好！我是肖峻铭，一名热爱 Web 开发的开发者。我喜欢将复杂的问题转化为简洁、美观且直观的解决方案。
           </p>
           <p>
-            With a background in computer science and a passion for design, I
-            strive to create experiences that are both functional and visually
-            appealing. When I&apos;m not coding, you can find me exploring new
-            technologies, reading about design trends, or enjoying a good cup of
-            coffee.
+            拥有计算机科学背景和对设计的热情，我致力于打造兼具功能性与美感的产品体验。工作之余，我喜欢探索新技术、关注设计趋势，或者享受一杯好咖啡。
           </p>
         </div>
 

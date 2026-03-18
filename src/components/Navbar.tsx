@@ -3,9 +3,9 @@
 import { useState, useEffect } from "react";
 
 const navLinks = [
-  { href: "#home", label: "Home" },
-  { href: "#about", label: "About" },
-  { href: "#contact", label: "Contact" },
+  { href: "#home", label: "首页" },
+  { href: "#about", label: "关于我" },
+  { href: "#contact", label: "联系方式" },
 ];
 
 export default function Navbar() {
@@ -31,7 +31,7 @@ export default function Navbar() {
           href="#home"
           className="font-display text-xl font-bold text-foreground tracking-tight"
         >
-          YN<span className="text-accent">.</span>
+          XJM<span className="text-accent">.</span>
         </a>
 
         {/* Desktop navigation */}

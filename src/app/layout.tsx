@@ -15,8 +15,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name — Personal Website",
-  description: "Welcome to my personal website. Developer, designer, and creative thinker.",
+  title: "肖峻铭 — 个人主页",
+  description: "肖峻铭的个人网站，开发者、设计爱好者。",
 };
 
 export default function RootLayout({
@@ -25,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="scroll-smooth">
+    <html lang="zh-CN" className="scroll-smooth">
       <body
         className={`${outfit.variable} ${dmSans.variable} font-body antialiased`}
       >
