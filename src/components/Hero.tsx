@@ -34,17 +34,20 @@ export default function Hero() {
         </h1>
 
         {/* Tagline */}
-        <p className="animate-fade-in-up delay-200 text-lg md:text-xl text-muted max-w-lg mx-auto mb-10 leading-relaxed">
-          热爱编程的开发者，用简洁的代码与创造性思维，打造优雅的数字体验。
+        <p className="animate-fade-in-up delay-200 text-lg md:text-xl text-muted max-w-lg mx-auto mb-3 leading-relaxed">
+          智能建造 | 南京工业大学 本科在读
+        </p>
+        <p className="animate-fade-in-up delay-200 text-base md:text-lg text-muted/80 max-w-lg mx-auto mb-10">
+          热爱人工智能
         </p>
 
-        {/* CTA Button */}
-        <div className="animate-fade-in-up delay-300">
+        {/* CTA Buttons */}
+        <div className="animate-fade-in-up delay-300 flex items-center justify-center gap-4">
           <a
-            href="#contact"
+            href="#about"
             className="inline-flex items-center gap-2 bg-accent hover:bg-accent-dark text-white font-medium px-7 py-3 rounded-full transition-all duration-300 hover:shadow-lg hover:shadow-accent/25 hover:-translate-y-0.5"
           >
-            联系我
+            了解更多
             <svg
               className="w-4 h-4"
               fill="none"
@@ -58,6 +61,12 @@ export default function Hero() {
                 d="M19 9l-7 7-7-7"
               />
             </svg>
+          </a>
+          <a
+            href="#contact"
+            className="inline-flex items-center gap-2 border border-accent text-accent hover:bg-accent hover:text-white font-medium px-7 py-3 rounded-full transition-all duration-300 hover:-translate-y-0.5"
+          >
+            联系我
           </a>
         </div>
       </div>

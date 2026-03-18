@@ -70,7 +70,7 @@ export default function Contact() {
             与我联系
           </h2>
           <p className="mt-4 text-muted text-base md:text-lg">
-            欢迎随时联系我，我始终乐于接受新的机会与交流。
+            如果您对我的研究方向感兴趣，或有任何学术交流与合作机会，欢迎随时联系我。
           </p>
         </div>
 

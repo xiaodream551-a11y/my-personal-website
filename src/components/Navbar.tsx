@@ -4,8 +4,9 @@ import { useState, useEffect } from "react";
 
 const navLinks = [
   { href: "#home", label: "首页" },
-  { href: "#about", label: "关于我" },
-  { href: "#contact", label: "联系方式" },
+  { href: "#about", label: "关于" },
+  { href: "#certificates", label: "荣誉" },
+  { href: "#contact", label: "联系" },
 ];
 
 export default function Navbar() {

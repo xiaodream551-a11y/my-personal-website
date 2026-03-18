@@ -15,8 +15,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "肖峻铭 — 个人主页",
-  description: "肖峻铭的个人网站，开发者、设计爱好者。",
+  title: "肖峻铭 — 学术主页",
+  description: "肖峻铭的学术主页，南京工业大学智能建造专业本科生，热爱人工智能。",
 };
 
 export default function RootLayout({
