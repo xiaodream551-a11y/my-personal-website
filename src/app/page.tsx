@@ -4,6 +4,7 @@ import About from "@/components/About";
 import Certificates from "@/components/Certificates";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import ChatAssistant from "@/components/ChatAssistant";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Certificates />
         <Contact />
       </main>
+      <ChatAssistant />
       <Footer />
     </>
   );
